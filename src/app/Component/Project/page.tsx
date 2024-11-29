@@ -104,7 +104,7 @@ const Projects: React.FC = () => {
     {
       title: "Portfolio Website",
       description: "Portfolio website built with Next.js and Tailwind CSS.",
-      link: "https://portfolio-web-zohaib-memons-projects.vercel.app",
+      link: "https://portfolio-web-tailwind-zohaib-memons-projects.vercel.app",
       image: "/assests/img/Portfolio.png",
     },
     {
